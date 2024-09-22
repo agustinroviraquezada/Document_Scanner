@@ -1,0 +1,16 @@
+opencv-python==4.5.5.64     # OpenCV for image processing
+opencv-contrib-python==4.5.5.64  # Additional OpenCV functionality like feature matching
+
+numpy==1.21.2               # Numerical operations for image manipulation
+imutils==0.5.4              # Utility functions for image processing (like resizing, rotating)
+
+scikit-image==0.18.3        # For advanced image processing (e.g., thresholding, segmentation)
+scipy==1.7.1                # Additional image processing utilities
+
+pytesseract==0.3.8          # Optical character recognition (OCR) to extract text from documents
+pdf2image==1.16.0           # Convert PDF files to images for scanning
+
+Pillow==8.4.0               # Image manipulation (alternative to OpenCV for some tasks)
+reportlab==3.6.1            # To create PDF documents
+
+matplotlib==3.4.3           # Visualization of image transformations (optional)
